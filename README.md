@@ -1,11 +1,5 @@
-# Test Project
+# test-repo
 
-This repository was initialized with a README file as requested in issue #1.
+Initialized based on issue #1: test issue.
 
-## Getting Started
-
-More information about the project will be added here as development progresses.
-
-## Features
-
-- Project initialization complete
+This repository is for testing purposes.
