@@ -1,3 +1,3 @@
-# test-repo
+# Project Title
 
-This is a test repository initialized with a README.md file.
+Description of the project.
